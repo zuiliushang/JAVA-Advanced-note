@@ -6,4 +6,4 @@ JAVA进阶知识学习笔记QAQ
 
 ### 1.Java 语言
 
-[1.1 Java程序运行机制](https://github.com/zuiliushang/JAVA-Advanced-note/issues/1)
+[1.1 Java程序运行机制](./01/0001.txt);
