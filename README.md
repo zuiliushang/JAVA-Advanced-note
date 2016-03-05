@@ -1,9 +1,9 @@
-# JAVA-Advanced-note
-JAVA进阶知识学习笔记QAQ
+# JAVA-note
+JAVA知识学习笔记QAQ
 
 ### 学过一次JAVA 但是因为一段时间没接触现在学习J2EE很吃力，决定回来填坑。
 
 
 ### 1.Java 语言
 
-[1.1 Java程序运行机制](./01/0001.txt);
+[1.1 Java程序运行机制](./01/0001.md);
