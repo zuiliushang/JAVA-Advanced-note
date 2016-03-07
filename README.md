@@ -9,3 +9,5 @@ JAVA知识学习笔记QAQ
 [Java程序运行机制](https://github.com/zuiliushang/JAVA-note/issues/2)
 
 [一起来了解数组吧](https://github.com/zuiliushang/JAVA-note/issues/4)
+
+[JAVA方法详解](https://github.com/zuiliushang/JAVA-note/issues/5)
