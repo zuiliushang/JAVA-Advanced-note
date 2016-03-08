@@ -17,3 +17,5 @@ JAVA知识学习笔记QAQ
 [instanceof 运算符](https://github.com/zuiliushang/JAVA-note/issues/7)
 
 [继承与组合](https://github.com/zuiliushang/JAVA-note/issues/8)
+
+[初始化块](https://github.com/zuiliushang/JAVA-note/issues/9)
