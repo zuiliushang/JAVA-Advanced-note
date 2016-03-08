@@ -15,3 +15,5 @@ JAVA知识学习笔记QAQ
 [深入构造器](https://github.com/zuiliushang/JAVA-note/issues/6)
 
 [instanceof 运算符](https://github.com/zuiliushang/JAVA-note/issues/7)
+
+[继承与组合](https://github.com/zuiliushang/JAVA-note/issues/8)
