@@ -11,3 +11,5 @@ JAVA知识学习笔记QAQ
 [一起来了解数组吧](https://github.com/zuiliushang/JAVA-note/issues/4)
 
 [JAVA方法详解](https://github.com/zuiliushang/JAVA-note/issues/5)
+
+[深入构造器](https://github.com/zuiliushang/JAVA-note/issues/6)
