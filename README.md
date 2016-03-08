@@ -13,3 +13,5 @@ JAVA知识学习笔记QAQ
 [JAVA方法详解](https://github.com/zuiliushang/JAVA-note/issues/5)
 
 [深入构造器](https://github.com/zuiliushang/JAVA-note/issues/6)
+
+[instanceof 运算符](https://github.com/zuiliushang/JAVA-note/issues/7)
