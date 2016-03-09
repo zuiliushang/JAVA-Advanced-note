@@ -21,3 +21,5 @@ JAVA知识学习笔记QAQ
 [初始化块](https://github.com/zuiliushang/JAVA-note/issues/9)
 
 [认识老朋友-类成员](https://github.com/zuiliushang/JAVA-note/issues/10)
+
+[final 修饰符](https://github.com/zuiliushang/JAVA-note/issues/11)
