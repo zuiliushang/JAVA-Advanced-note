@@ -23,3 +23,5 @@ JAVA知识学习笔记QAQ
 [认识老朋友-类成员](https://github.com/zuiliushang/JAVA-note/issues/10)
 
 [final 修饰符](https://github.com/zuiliushang/JAVA-note/issues/11)
+
+[内部类 QAQ ](https://github.com/zuiliushang/JAVA-note/issues/12)
