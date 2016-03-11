@@ -25,3 +25,5 @@ JAVA知识学习笔记QAQ
 [final 修饰符](https://github.com/zuiliushang/JAVA-note/issues/11)
 
 [内部类 QAQ ](https://github.com/zuiliushang/JAVA-note/issues/12)
+
+[ Java 8 新增的 Lambda 表达式 ](https://github.com/zuiliushang/JAVA-note/issues/13)
