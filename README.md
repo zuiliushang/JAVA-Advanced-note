@@ -27,3 +27,5 @@ JAVA知识学习笔记QAQ
 [内部类 QAQ ](https://github.com/zuiliushang/JAVA-note/issues/12)
 
 [ Java 8 新增的 Lambda 表达式 ](https://github.com/zuiliushang/JAVA-note/issues/13)
+
+[ 啥子是枚举类 ](https://github.com/zuiliushang/JAVA-note/issues/14)
