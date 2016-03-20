@@ -35,3 +35,5 @@ JAVA知识学习笔记QAQ
 [ 使用JAR 文件 ](https://github.com/zuiliushang/JAVA-note/issues/16)
 
 [ 修饰符的适用范围 ](https://github.com/zuiliushang/JAVA-note/issues/17)
+
+[ 系统相关-System 类和Runtime 类 ](https://github.com/zuiliushang/JAVA-note/issues/18)
