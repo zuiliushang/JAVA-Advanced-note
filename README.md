@@ -39,3 +39,5 @@ JAVA知识学习笔记QAQ
 [ 系统相关-System 类和Runtime 类 ](https://github.com/zuiliushang/JAVA-note/issues/18)
 
 [ JAVA正则表达式 ](https://github.com/zuiliushang/JAVA-note/issues/19)
+
+[ 国际化和格式化 ](https://github.com/zuiliushang/JAVA-note/issues/20)
