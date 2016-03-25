@@ -40,4 +40,4 @@ JAVA知识学习笔记QAQ
 
 [ JAVA正则表达式 ](https://github.com/zuiliushang/JAVA-note/issues/19)
 
-[ 国际化和格式化 ](https://github.com/zuiliushang/JAVA-note/issues/20)
+[ JAVA 集合 ](https://github.com/zuiliushang/JAVA-note/issues/21)
