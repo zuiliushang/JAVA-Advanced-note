@@ -41,3 +41,5 @@ JAVA知识学习笔记QAQ
 [ JAVA正则表达式 ](https://github.com/zuiliushang/JAVA-note/issues/19)
 
 [ JAVA 集合 ](https://github.com/zuiliushang/JAVA-note/issues/21)
+
+[ JAVA 格式化 ](https://github.com/zuiliushang/JAVA-note/issues/22)
