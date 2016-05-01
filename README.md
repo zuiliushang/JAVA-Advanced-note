@@ -49,3 +49,5 @@ JAVA知识学习笔记QAQ
 [ 异常类的继承体系 ](https://github.com/zuiliushang/JAVA-note/issues/24)
 
 [ Anntation 注释/注解(基本 Annotation) ](https://github.com/zuiliushang/JAVA-note/issues/25)
+
+[ JDK 的 Meta Annotation（元 Annotation） ](https://github.com/zuiliushang/JAVA-note/issues/26)
