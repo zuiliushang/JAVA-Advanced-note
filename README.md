@@ -47,3 +47,5 @@ JAVA知识学习笔记QAQ
 [ 了解泛型 ](https://github.com/zuiliushang/JAVA-note/issues/23)
 
 [ 异常类的继承体系 ](https://github.com/zuiliushang/JAVA-note/issues/24)
+
+[ Anntation 注释/注解(基本 Annotation) ](https://github.com/zuiliushang/JAVA-note/issues/25)
