@@ -43,3 +43,5 @@ JAVA知识学习笔记QAQ
 [ JAVA 集合 ](https://github.com/zuiliushang/JAVA-note/issues/21)
 
 [ JAVA 格式化 ](https://github.com/zuiliushang/JAVA-note/issues/22)
+
+[ 了解泛型 ](https://github.com/zuiliushang/JAVA-note/issues/23)
