@@ -51,3 +51,5 @@ JAVA知识学习笔记QAQ
 [ Anntation 注释/注解(基本 Annotation) ](https://github.com/zuiliushang/JAVA-note/issues/25)
 
 [ JDK 的 Meta Annotation（元 Annotation） ](https://github.com/zuiliushang/JAVA-note/issues/26)
+
+[ 自定义 Annotation ](https://github.com/zuiliushang/JAVA-note/issues/27)
